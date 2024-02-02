@@ -10,6 +10,5 @@
 
 #### More About Me
 
-#OPENTOWORK 这么多年一直专注在本职工作上。。。
-
+- Current Status: #OPENTOWORK (这么多年一直专注在本职工作上。。。)
 - Deprecated Github Account: [jjljj](https://github.com/jjljj) (其实是2FA认证找不回来了。。。)
